@@ -2,8 +2,11 @@
   project1 by Kim SeoA
 
 P1-1: Clock
+
 P1-2: 2D Solar System
+
 P1-3: Robot Arm
+
 P1-4: LP Player (free topic)
 
 assets: Sound files required for execution
